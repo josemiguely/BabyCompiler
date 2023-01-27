@@ -1,4 +1,8 @@
 # V5
+---
+CC5116 - Diseño e Implementación de Compiladores.
+
+José Miguel Yuseff & Stevens Egli.
 
 ---
 
