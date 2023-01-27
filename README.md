@@ -2,6 +2,8 @@
 
 José Miguel Yuseff & Stevens Egli.
 
+Version5.md has detailed information about the latest added features.
+
 ## Requirements & Setup
 
 See the [detailed description](https://users.dcc.uchile.cl/~etanter/CC5116-2020/#(part._materials)) on the page of the course.
