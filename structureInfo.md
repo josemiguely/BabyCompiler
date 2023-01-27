@@ -1,9 +1,3 @@
-CC5116 - Diseño e Implementación de Compiladores.
-
-José Miguel Yuseff & Stevens Egli.
-
----
-Version5.md has detailed information about the latest added features.
 
 ## Requirements & Setup
 
