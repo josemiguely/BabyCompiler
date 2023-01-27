@@ -1,0 +1,6 @@
+NAME: Increment by one a positive number
+DESCRIPTION: increments a number
+SRC:
+(add1 20)
+EXPECTED:
+|ORACLE

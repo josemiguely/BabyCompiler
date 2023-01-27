@@ -1,0 +1,6 @@
+(
+  (def (add3 x) (+ 3 x))
+  (def (mappair f p) (tup (@ f p) (@ f p)))
+
+  (mappair (lambda (x) (add3 x)) 10)
+)

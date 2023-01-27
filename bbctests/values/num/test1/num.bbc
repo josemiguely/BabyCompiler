@@ -1,0 +1,6 @@
+NAME: a positive num
+DESCRIPTION: evaluates a number
+SRC:
+20
+EXPECTED:
+|ORACLE

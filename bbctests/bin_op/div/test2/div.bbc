@@ -1,0 +1,6 @@
+NAME: multiple divisions between two numbers
+DESCRIPTION: divides two numbers up to 1
+SRC:
+(/ (/ (/ (/ (/ (/ 64 2) 2) 2) 2) 2) 2)
+EXPECTED:
+|ORACLE

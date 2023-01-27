@@ -1,0 +1,6 @@
+NAME: Increment from negatives to positives 
+DESCRIPTION: add1 multiple times from negative number to positive
+SRC:
+(add1 (add1 (add1 (add1 -2))))
+EXPECTED:
+|ORACLE

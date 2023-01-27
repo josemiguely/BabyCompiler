@@ -1,0 +1,7 @@
+NAME: a print inside a logical expression
+DESCRIPTION: a print inside a logical expression
+SRC:
+(and (print true) false)
+EXPECTED:
+> true
+false

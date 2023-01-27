@@ -1,0 +1,8 @@
+NAME: a sub that produces overflow
+DESCRIPTION: breaks with runtime error because it performs a overflow
+PARAMS: SAFE=2
+STATUS: RT error
+SRC:
+(- 4611686018427387903 -4611686018427387904)
+EXPECTED:
+Arithmetic error: - produced an overflow

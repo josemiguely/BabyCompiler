@@ -1,0 +1,7 @@
+NAME: a print inside a numeric expression
+DESCRIPTION: a print inside a numeric expression
+SRC:
+(+ (print 1) 4)
+EXPECTED:
+> 1
+5

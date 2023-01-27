@@ -1,0 +1,6 @@
+NAME: multiple concatenated and operations
+DESCRIPTION: evaluates a and multiple times 
+SRC:
+(and (and (and (and (and (and (and (and false true) true) true) true) true) false) false) true)
+EXPECTED:
+|ORACLE
