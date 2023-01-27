@@ -13,7 +13,7 @@ Se uso el algoritmo de Cheney's para implementar un garbage collector. Para esto
 Para más información del algoritmo visitar:
 https://en.wikipedia.org/wiki/Cheney%27s_algorithm
 
-No se tomo ninguna decidwsión de diseño importante, solamente se agrego un nuevo identificador para las direcciones que ya fueron movidas del FROM SPACE y TO SPACE con el valor `FORWARDED_TAG = Ox7`.
+No se tomo ninguna decisión de diseño importante, solamente se agrego un nuevo identificador para las direcciones que ya fueron movidas del FROM SPACE y TO SPACE con el valor `FORWARDED_TAG = Ox7`.
 
 
 ## Otros cambios
