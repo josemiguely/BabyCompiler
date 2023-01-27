@@ -18,7 +18,7 @@ No se tomo ninguna decisión de diseño importante, solamente se agrego un nuevo
 
 ## Otros cambios
 
-Se refactorizo algunas partes del código con funciones puras.
+Se refactorizó algunas partes del código con funciones puras.
 
 
 ## Testing
