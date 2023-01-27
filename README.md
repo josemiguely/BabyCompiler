@@ -1,6 +1,6 @@
-# Reference Code
+[ CC5116 ] - Diseño e Implementación de Compiladores.
 
-Starter code for compilers homework, [deliverable 1](https://users.dcc.uchile.cl/~etanter/CC5116/hw_1_enunciado.html)
+José Miguel Yuseff & Stevens Egli.
 
 ## Requirements & Setup
 
